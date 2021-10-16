@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(122, 140, 175);
+}
+
+h1{
+    font-size: 50px ;
+    font-weight: bold;
+}
+
+.jumbotron{
+    background-color: rgb(201, 201, 201);
+}
+
+.card{
+    box-shadow: black 4px 4px 4px 4px;
+}
